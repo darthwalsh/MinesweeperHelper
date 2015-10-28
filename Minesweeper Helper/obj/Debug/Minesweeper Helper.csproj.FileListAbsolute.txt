@@ -1,0 +1,8 @@
+C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper\bin\Debug\Minesweeper Helper.exe
+C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper\bin\Debug\Minesweeper Helper.pdb
+C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper\obj\Debug\Minesweeper Helper.exe
+C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper\obj\Debug\Minesweeper Helper.pdb
+C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper\obj\Debug\Minesweeper_Helper.Properties.Resources.resources
+C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper\obj\Debug\ResGen.read.1.tlog
+C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper\obj\Debug\ResGen.write.1.tlog

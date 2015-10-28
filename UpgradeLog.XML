@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Minesweeper Helper">
+</Property><Property Name="Solution File" Value="C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Minesweeper Helper.suo">
+</Property><Property Name="Date" Value="Wednesday, August 04, 2010">
+</Property><Property Name="Time" Value="0:09 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Minesweeper Helper.sln" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Minesweeper Helper.suo" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper.suo">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Minesweeper Helper.csproj" Description="Project file successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\Minesweeper Helper.csproj">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Minesweeper Helper.csproj.user" Description="Project user file successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\Minesweeper Helper.csproj.user">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Logic.cs" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\Logic.cs">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Program.cs" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\Program.cs">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\SystemIO.cs" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\SystemIO.cs">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Resources\sweeper16.ico" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\Resources\sweeper16.ico">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\sweeper.ico" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\sweeper.ico">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\sweeper16.ico" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\sweeper16.ico">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Carl\Documents\Visual Studio 2008\Projects\Minesweeper Helper\Backup\Minesweeper Helper\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Minesweeper Helper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Minesweeper Helper" Source="Minesweeper Helper\Minesweeper Helper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Minesweeper Helper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Minesweeper Helper.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Minesweeper Helper" Source="Minesweeper Helper\Minesweeper Helper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
